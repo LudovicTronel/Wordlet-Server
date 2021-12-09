@@ -11,16 +11,16 @@ Partie serveur du projet calédonien de NFT, Wordlet.
 
   3. [Installer NodeJS](https://nodejs.org/en/download/)
 
-  4. Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dosser "server" puis écrire 'npm install' et entrer afin d'ajouter les dépendances.
+  4. Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dossier "server" puis écrire 'npm install' et entrer afin d'ajouter les dépendances.
 
-  5. Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dosser "client" puis écrire 'npm install' et entrer afin d'ajouter les dépendances.
+  5. Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dossier "client" puis écrire 'npm install' et entrer afin d'ajouter les dépendances.
 
 
 --Lancement du serveur--
 
-  Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dosser "server" puis écrire 'npm start' et entrer afin de lancer le serveur.
+  Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dossier "server" puis écrire 'npm start' et entrer afin de lancer le serveur.
 
 
 --Lancement du Front End--
 
-  Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dosser "client" puis écrire 'npm start' et entrer afin de lancer le Front-End.
+  Ouvrir une fenêtre PowerShell (SHIFT + FN + Clic droit) dans le dossier "client" puis écrire 'npm start' et entrer afin de lancer le Front-End.
