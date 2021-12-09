@@ -37,7 +37,7 @@ io.on("connection", (socket) => {
 			player.socketId = socket.id;
 			room = createRoom(player, nameRoom);
 			console.log(`${player.username} a créé le salon ${nameRoom} !`);
-			console.log(`${player.username} attend des joueurs dans le salon ${nameRoom}`)
+			console.log(`${player.username} attend des joueurs dans le salon ${nameRoom}...`)
 
 		} else {
 
