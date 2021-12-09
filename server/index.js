@@ -27,6 +27,7 @@ let rooms = [];
 
 //Gestion de la connexion
 io.on("connection", (socket) => {
+	console.log("socket connecté !")
 
 	//Evenement principal gérant la création et l'initialisation d'une room par un joueur qui en devient l'hôte
 	socket.on('playerData', (player, nameRoom) => {
